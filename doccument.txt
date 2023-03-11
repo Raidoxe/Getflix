@@ -1,0 +1,54 @@
+To understand the origins and true impact of {ocupation}'s, a former {ocupation} investigates the economics of the six largest {bussiness}
+
+ocupation = "doctor" "dentist" "nurse" "programmer" "vet nurse" "Baker" "CEO" "politician" "barista" "UN official" "news anchor" "reporter" "American president"
+
+Bussiness = "Banks" "Drug lords" "Vetinary Clinics" "Marketing agencies" "Countries" ""
+
+
+
+
+
+
+In a world on the brink of {disaster}, a talanted {hobby} takes the lead in a series of challenges to win ownership of a {item}
+
+
+disaster =  "Flood" "Hurricane" "HeatWave" "Earthquake" "Economic Collapse" "Starvation" "Over Population"
+
+hobby = "Chess player" "Body boarder" "Fidget spinner" "knitter" "skate boarder" "reviewer" "bird watcher" "programmer" "politician" 
+
+item = "another dimension" "a litter of cats" "the world" "another planet" "notepad" "macbook pro" "new iphone"
+ 
+
+
+
+
+
+
+Determined to protect a {object} that promises to save humanity, {name} goes on a wayward quest across the {describer}{location}
+
+
+Object/Gender = "Lamp" "Macbook pro" "Ipad" "key" "person"
+
+name = "Samantha" "Julius" "Isla" "Arlo" "Griffon" "Jedd" "Oli" "Lollita"
+
+describer = "vast" "beautiful" "expansive " "Great" "Limitless" "Microscopic" "tiny"
+
+location = "Unknown" "Virtual world" "Australia" "Ocean" "Sky" "Cloud"
+
+
+
+
+
+
+
+A {gender} wrongly convicted of {crime} agrees to compete in a grueling three day {task} against fellow inmakes in exhange for his {pre-thing}{thing}
+
+Gender = "Man" "Woman" "Wombat" "Hamster" "Cat" "Fish" "Quokka" 
+
+Crime = "Murder" "Arson" "Larceny" "Disorderly Conduct" "Trespassing" "Speeding" "DUI" 
+
+Task = "Race" "Chess compitition" "Blinking contest" "Jog" "Drinking game"
+
+thing = "Dignity" "Humanity" "Life" "lover" "career" "home" "friend" "family member" 
+
+pre-Thing = "Former" "Future" "Past" 

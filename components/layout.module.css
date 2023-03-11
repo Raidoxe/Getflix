@@ -1,0 +1,35 @@
+.header {
+    background-color: #000;
+    border-bottom: 8px solid #333  ;
+    display:flex;
+    justify-content: space-between;
+}
+
+.main {
+    display: flex;
+    background-color: #333;
+    height: 80vh;
+}
+
+.main p {
+    color:white;
+}
+
+.footer {
+    border-top: 8px solid #333;
+    background-color:#000;
+    height: 10vh;
+}
+
+.footer p {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.icon-play{
+    background-image: url(../public/images/icons8-play-26.png);
+    height:10px;
+    width:10px;
+}
+
